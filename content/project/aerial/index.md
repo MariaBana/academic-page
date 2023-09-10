@@ -26,6 +26,7 @@ summary: A six-axis drone with a diameter of 170cm that can shoot rubber project
 # external_link: "https://github.com/basnijholt/yaml2bib"
 
 ---
+(./featured.gif)
 1. Drone Motion Control
     * Gimbal control
         * According to the gimbal model, design the feed-forward-serial controller to realize the gimbal motion and muzzle launch.
